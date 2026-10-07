@@ -10,7 +10,7 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "fabric": "^6.9.0",
-    "lucide-preact": "^0.562.0",
+    "lucide-preact": "^1.52.0",
     "openseadragon": "^5.0.1",
     "openseadragon-zoomspeaker": "file:..",
     "preact": "^10.24.3"
