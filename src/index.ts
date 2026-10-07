@@ -1,5 +1,5 @@
-export { OpenSeadragonScreenshot, createScreenshot } from './capture';
-export type { ScreenshotOptions, ScreenshotFormat } from './capture';
+export { OpenSeadragonZoomSpeaker, createZoomSpeaker } from './speaker';
+export type { ZoomSpeakerOptions, ScreenshotFormat } from './speaker';
 
 /**
  * LIMITATIONS:
