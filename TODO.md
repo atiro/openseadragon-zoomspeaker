@@ -1,7 +1,9 @@
 
 ## SETUP
 
-  * Continue to tidy up repo 
+  * Continue to tidy up repo and refactor code from original plugin 
+  * Make demo page better, allow for selection of different images
+  * Record a much better demo video
 
 ## FEATURES
 
@@ -11,5 +13,6 @@
 
 ## MODEL FEATURES
 
+  * Better model for cultural heritage images
   * Ability for metadata to be provided alongside an image to refine a model responses (e.g. could captions be wirtten for rectanges at different level of zoom which the model can then draw on to guide response)
 
